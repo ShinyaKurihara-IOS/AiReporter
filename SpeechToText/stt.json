@@ -1,0 +1,11 @@
+{
+  "config": {
+      "languageCode": "ja-JP"
+  },
+  "output_config": {
+     "gcs_uri":"gs://boxing_voice/text/output_0037.json"
+  },
+  "audio": {
+      "uri":"gs://boxing_voice/voice/output_0037.wav"
+  }
+}
